@@ -24,7 +24,7 @@ app.post('/bfhl', async (req, res) => {
     }
 
     const userid = "joyalshine_04062003";
-    const email = "joyalshine2003@gmail.com";
+    const email = "joyal.shine2021@vitstudent.ac.in";
     const regno = "21BBBS0023";
     const numbers = [];
     const alphabets = [];
